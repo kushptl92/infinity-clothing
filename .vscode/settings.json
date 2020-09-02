@@ -1,0 +1,4 @@
+{
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true
+}
